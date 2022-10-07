@@ -1,0 +1,23 @@
+[
+    {
+        "category_id":1,
+        "id":1,
+        "subcategory":"T Shirts"
+    },
+    {
+        "category_id":1,
+        "id":2,
+        "subcategory":"Casual Shirts"
+    },
+    {
+        "category_id":1,
+        "id":3,
+        "subcategory":"Formal Shirts"
+    },
+    {
+        "category_id":1,
+        "id":4,
+        "subcategory":"Jackets"
+    }
+    
+]

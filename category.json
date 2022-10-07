@@ -1,0 +1,18 @@
+[
+    {
+        "id":1,
+        "category":"male-fashion"
+    },
+    {
+        "id":2,
+        "category":"female-fashion"
+    },
+    {
+        "id":3,
+        "category":"kids-fashion"
+    },
+    {
+        "id":3,
+        "category":"home and living"
+    }
+]
