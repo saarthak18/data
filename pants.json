@@ -1,0 +1,146 @@
+[
+    {
+        "_id":"1",
+        "img":"",
+        "category_id":1,
+        "brand":"Puma",
+       
+        "size":"M",
+        "price":1399,
+        "offer":20,
+        "delivery-option":"Free",
+        "ratings":1300,
+        "stars":4.1,
+        "seller":"Graphic Pants"
+    },
+    {
+        "_id":"2",
+        "img":"",
+        "category_id":1,
+        "brand":"HRX",
+       
+        "size":"S",
+        "price":1299,
+        "offer":20,
+        "delivery-option":"Free",
+        "ratings":15300,
+        "stars":3.7,
+        "seller":"Men Rappid dry running joggers"
+    },
+
+    {
+        "_id":"3",
+        "img":"",
+        "category_id":1,
+        "brand":"Nike",
+       
+        "size":"M",
+        "price":3145,
+        "offer":10,
+        "delivery-option":"Free",
+        "ratings":1300,
+        "stars":4.1,
+        "seller":"Woven Company"
+    },
+
+    {
+        "_id":"4",
+        "img":"",
+        "category_id":1,
+        "brand":"Nyamba",
+       
+        "size":"L",
+        "price":859,
+        "offer":20,
+        "delivery-option":"Free",
+        "ratings":1200,
+        "stars":4.1,
+        "seller":"Decathlon"
+    },
+    {
+        "_id":"5",
+        "img":"",
+        "category_id":1,
+        "brand":"Puma",
+       
+        "size":"M",
+        "price":1099,
+        "offer":45,
+        "delivery-option":"Free",
+        "ratings":488,
+        "stars":4,
+        "seller":"Puma"
+    },
+    {
+        "_id":"6",
+        "img":"",
+        "category_id":2,
+        "brand":"Puma",
+       
+        "size":"M",
+        "price":1399,
+        "offer":20,
+        "delivery-option":"Free",
+        "ratings":1300,
+        "stars":4.1,
+        "seller":"Graphic Pants"
+    },
+    {
+        "_id":"7",
+        "img":"",
+        "category_id":2,
+        "brand":"smarty pants",
+       
+        "size":"S",
+        "price":849,
+        "offer":50,
+        "delivery-option":"Free",
+        "ratings":231,
+        "stars":3.9,
+        "seller":"Diva"
+    },
+    {
+        "_id":"8",
+        "img":"",
+        "category_id":2,
+        "brand":"hrx",
+       
+        "size":"M",
+        "price":1020,
+        "offer":30,
+        "delivery-option":"Free",
+        "ratings":1400,
+        "stars":3.7,
+        "seller":"neerus"
+    },
+    {
+        "_id":"9",
+        "img":"",
+        "category_id":2,
+        "brand":"shivas",
+       
+        "size":"L",
+        "price":1021,
+        "offer":40,
+        "delivery-option":"Free",
+        "ratings":1900,
+        "stars":4.1,
+        "seller":"CMR" 
+    },
+    {
+        "_id":"10",
+        "img":"",
+        "category_id":2,
+        "brand":"HRX",
+       
+        "size":"M",
+        "price":1100,
+        "offer":80,
+        "delivery-option":"Free",
+        "ratings":1100,
+        "stars":4.3,
+        "seller":"netra"
+    }
+ 
+
+]

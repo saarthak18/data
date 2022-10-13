@@ -1,6 +1,6 @@
 [
     {
-        "_id":"45fhdhch78ii00e9",
+        "_id":"1",
         "img":"",
         "category_id":2,
         "brand":"Kalini",
@@ -13,7 +13,7 @@
         "seller":"swasa store"
     },
     {
-        "_id":"45fhdhch78ii00e10",
+        "_id":"2",
         "img":"",
         "category_id":2,
         "brand":"Anouk",
@@ -26,7 +26,7 @@
         "seller":"neerus"
     },
     {
-        "_id":"45fhdhch78ii00e11",
+        "_id":"3",
         "img":"",
         "category_id":2,
         "brand":"Indo Era",
@@ -39,7 +39,7 @@
         "seller":"unlimited"
     },
     {
-        "_id":"45fhdhch78ii00e12",
+        "_id":"4",
         "img":"",
         "category_id":2,
         "brand":"Varanga",
@@ -52,7 +52,7 @@
         "seller":"max"
     },
     {
-        "_id":"45fhdhch78ii00e13",
+        "_id":"5",
         "img":"",
         "category_id":2,
         "brand":"Anubhutee",
@@ -65,7 +65,7 @@
         "seller":"trendz"
     },
     {
-        "_id":"45fhdhch78ii00e14",
+        "_id":"6",
         "img":"",
         "category_id":2,
         "brand":"Ahalyaa",
@@ -78,7 +78,7 @@
         "seller":"meena tailors"
     },
     {
-        "_id":"45fhdhch78ii00e15",
+        "_id":"7",
         "img":"",
         "category_id":2,
         "brand":"Libas",
@@ -91,7 +91,7 @@
         "seller":"Lyra"
     },
     {
-        "_id":"45fhdhch78ii00e16",
+        "_id":"8",
         "img":"",
         "category_id":2,
         "brand":"Nayo",
@@ -104,7 +104,7 @@
         "seller":"mcarn"
     },
     {
-        "_id":"45fhdhch78ii00e17",
+        "_id":"9",
         "img":"",
         "category_id":2,
         "brand":"inWeave",
@@ -117,7 +117,7 @@
         "seller":"mcarn" 
     },
     {
-        "_id":"45fhdhch78ii00e18",
+        "_id":"10",
         "img":"",
         "category_id":2,
         "brand":"Ek",

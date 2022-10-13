@@ -1,7 +1,7 @@
 [
     
     {
-        "_id":"45fhdhch78ii00d23",
+        "_id":"1",
         "img":"",
         "category_id":3,
         "brand":"HELLICAT",
@@ -13,11 +13,9 @@
         "ratings":1100,
         "stars":4.3,
         "seller":"Soxy Retails"
-
-
     },
     {
-        "_id":"45fhdhch78ii00d23",
+        "_id":"2",
         "img":"",
         "category_id":3,
         "brand":"max",
@@ -29,11 +27,9 @@
         "ratings":900,
         "stars":2.7,
         "seller":"mAx"
-
-
-    },
+     },
     {
-        "_id":"45fhdhch78ii00d23",
+        "_id":"3",
         "img":"",
         "category_id":3,
         "brand":"HRX",
@@ -45,11 +41,9 @@
         "ratings":950,
         "stars":3.9,
         "seller":"Amarendra Stores"
-
-
     },
     {
-        "_id":"45fhdhch78ii00d23",
+        "_id":"4",
         "img":"",
         "category_id":3,
         "brand":"BONKIDS",
@@ -61,11 +55,9 @@
         "ratings":760,
         "stars":3.9,
         "seller":"schwezengar mart"
-
-
     },
     {
-        "_id":"45fhdhch78ii00d23",
+        "_id":"5",
         "img":"",
         "category_id":3,
         "brand":"YK MARVEL",
@@ -77,11 +69,9 @@
         "ratings":1200,
         "stars":4.0,
         "seller":"Jagdish Stores"
-
-
     },
     {
-        "_id":"45fhdhch78ii00d23",
+        "_id":"6",
         "img":"",
         "category_id":3,
         "brand":"YK DISNEY",
@@ -93,11 +83,9 @@
         "ratings":2100,
         "stars":4.2,
         "seller":"US POLO"
-
-
     },
     {
-        "_id":"45fhdhch78ii00d23",
+        "_id":"7",
         "img":"",
         "category_id":3,
         "brand":"H&M",
@@ -109,11 +97,9 @@
         "ratings":213,
         "stars":4.5,
         "seller":"Lil Tomatoes"
-
-
     },
     {
-        "_id":"45fhdhch78ii00d23",
+        "_id":"8",
         "img":"",
         "category_id":3,
         "brand":"KINSEY",
@@ -125,11 +111,9 @@
         "ratings":78,
         "stars":4.6,
         "seller":"H&M Stores"
-
-
     },
     {
-        "_id":"45fhdhch78ii00d23",
+        "_id":"9",
         "img":"",
         "category_id":3,
         "brand":"Roadster",
@@ -141,11 +125,9 @@
         "ratings":234,
         "stars":4.2,
         "seller":"Myntra"
-
-
     },
     {
-        "_id":"45fhdhch78ii00d23",
+        "_id":"10",
         "img":"",
         "category_id":3,
         "brand":"AllenSolly Junior",
@@ -157,7 +139,5 @@
         "ratings":560,
         "stars":4.2,
         "seller":"AllenSolly"
-
-
     }
 ]

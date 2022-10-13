@@ -1,6 +1,6 @@
 [
     {
-        "_id":"45fhdhch78ii00d9",
+        "_id":"1",
         "img":"",
         "category_id":1,
         "brand":"Raymonds",
@@ -12,11 +12,9 @@
         "ratings":1300,
         "stars":3.7,
         "seller":"Metro retail"
-
-
     },
     {
-        "_id":"45fhdhch78ii00d10",
+        "id":"2",
         "img":"",
         "category_id":1,
         "brand":"Raymonds",
@@ -27,11 +25,9 @@
         "ratings":1100,
         "stars":3.6,
         "seller":"Metro retail"
-
-
     },
     {
-        "_id":"45fhdhch78ii00d11",
+        "_id":"3",
         "img":"",
         "category_id":1,
         "brand":"Louis Philippe",
@@ -42,11 +38,9 @@
         "ratings":5000,
         "stars":4.4,
         "seller":"Louis Phillippe"
-
-
     },
     {
-        "_id":"45fhdhch78ii00d12",
+        "_id":"4",
         "img":"",
         "category_id":1,
         "brand":"Arrow",
@@ -57,11 +51,9 @@
         "ratings":3000,
         "stars":4.1,
         "seller":"Arrow"
-
-
     },
     {
-        "_id":"45fhdhch78ii00d13",
+        "_id":"5",
         "img":"",
         "category_id":1,
         "brand":"Buffalow",
@@ -72,11 +64,9 @@
         "ratings":4302,
         "stars":4.3,
         "seller":"sangarsh retail"
-
-
     },
     {
-        "_id":"45fhdhch78ii00d4",
+        "_id":"6",
         "img":"",
         "category_id":2,
         "brand":"Allen Solly",
@@ -87,11 +77,9 @@
         "ratings":1800,
         "stars":4.3,
         "seller":"Allen Solly"
-
-
     },
     {
-        "_id":"45fhdhch78ii00d15",
+        "_id":"7",
         "img":"",
         "category_id":2,
         "brand":"Van Heusen",
@@ -102,11 +90,9 @@
         "ratings":1800,
         "stars":4.3,
         "seller":"Van Heusen"
-
-
     },
     {
-        "_id":"45fhdhch78ii00d16",
+        "_id":"8",
         "img":"",
         "category_id":2,
         "brand":"Mango",
@@ -117,11 +103,9 @@
         "ratings":1900,
         "stars":4.1,
         "seller":"Truenet Commerce"
-
-
     },
     {
-        "_id":"45fhdhch78ii00d17",
+        "_id":"9",
         "img":"",
         "category_id":2,
         "brand":"Hanock",
@@ -132,11 +116,9 @@
         "ratings":2500,
         "stars":4.3,
         "seller":"SIDHBALI CREATIONS"
-
-
     },
     {
-        "_id":"45fhdhch78ii00d18",
+        "_id":"10",
         "img":"",
         "category_id":2,
         "brand":"Fable Street",
@@ -147,12 +129,5 @@
         "ratings":1200,
         "stars":3.7,
         "seller":"SIDHBALI CREATIONS"
-
-
     }
-    
-
-
-
-
 ]
